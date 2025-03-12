@@ -20,7 +20,7 @@ namespace practicafinal
 
             // 2. Modificación de un elemento
             // Se cambia el valor del tercer elemento (índice 2) por 99
-            numeros[2] = 78;
+            numeros[2] = 99;
 
             // Se imprime el arreglo después de la modificación
             Console.WriteLine("\nArreglo después de modificar el tercer elemento:");
